@@ -23,7 +23,7 @@ body{
 
 h1{
     color: #6b9c77;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Oswald", sans-serif;
     font-size: small;
     height: 250px;
     display: flex;
@@ -31,6 +31,33 @@ h1{
     align-items: center;
 }
 
-.img{
-    align-self: center;
+.sec1{
+    width: 100vw;
+    height: 100vh;
 }
+
+.sec2{
+    width: 100vw;
+    height: 100vh;
+}
+
+.sec3{
+    width: 100vw;
+    height: 100vh;
+}
+
+.leftnav{
+    width: 4%;
+    height: 100vh;
+    float: left;
+    position: sticky;
+    background-color: aliceblue;
+
+}
+
+.nav{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
